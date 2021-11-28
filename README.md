@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is a map of my favorite vegan restaurants in Orange County
 
 <!--
 **mansiiip1/mansiiip1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
